@@ -5,6 +5,12 @@ Menu Class: Dessert
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder.This will become your new favorit dessert.
 
+Servings: 6
+
+Preparation Time:
+Prep: 30 m
+Ready In: 3 h 30 m
+
 Ingredients
 1. 6 egg yolks
 2. 1 cup white sugar, divided
