@@ -1,0 +1,25 @@
+Additional text for Dessert
+
+Description:
+This will become your new favorit dessert.
+
+Servings: 6
+
+Preparation Time:
+Prep: 30 m
+Ready In: 3 h 30 m
+
+Recipe by:
+
+
+!!! This below will be used for brancing lesson
+Additional Text for Branching
+Commit 1
+Add chocolate on top.
+
+
+Commit 2
+Decor with strawberry and whipped cream decoration.
+
+
+
